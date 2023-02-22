@@ -1,0 +1,19 @@
+/* CSS Document */
+body {
+				background-color: #F4EAD5;
+			}
+hr{
+				border-style: none;
+				border-top-style: dotted;
+				border-color: #4CACBC;
+				border-width: 5px;
+				background: none;
+				width: 5%;
+			}
+h1{
+	color: #66BFBF;
+}
+
+h3{
+	color: #66BFBF;
+}
